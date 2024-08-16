@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nicolly\\csharp\\ProjetoEstruturaCondicional\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D723369C-D97C-493D-BD3D-3B473C91F20C}|..\\ProjetoEstruturaCondicionalSwitchCase\\ProjetoEstruturaCondicionalSwitchCase.csproj|d:\\nicolly\\csharp\\projetoestruturacondicionalswitchcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D723369C-D97C-493D-BD3D-3B473C91F20C}|..\\ProjetoEstruturaCondicionalSwitchCase\\ProjetoEstruturaCondicionalSwitchCase.csproj|d:\\nicolly\\csharp\\projetoestruturacondicionalswitchcase\\formsoma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D723369C-D97C-493D-BD3D-3B473C91F20C}|..\\ProjetoEstruturaCondicionalSwitchCase\\ProjetoEstruturaCondicionalSwitchCase.csproj|d:\\nicolly\\csharp\\projetoestruturacondicionalswitchcase\\formsoma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D723369C-D97C-493D-BD3D-3B473C91F20C}|..\\ProjetoEstruturaCondicionalSwitchCase\\ProjetoEstruturaCondicionalSwitchCase.csproj|d:\\nicolly\\csharp\\projetoestruturacondicionalswitchcase\\formsoma.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D723369C-D97C-493D-BD3D-3B473C91F20C}|..\\ProjetoEstruturaCondicionalSwitchCase\\ProjetoEstruturaCondicionalSwitchCase.csproj|d:\\nicolly\\csharp\\projetoestruturacondicionalswitchcase\\formcor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormSoma.Designer.cs",
+              "DocumentMoniker": "D:\\Nicolly\\csharp\\ProjetoEstruturaCondicionalSwitchCase\\FormSoma.Designer.cs",
+              "RelativeDocumentMoniker": "..\\ProjetoEstruturaCondicionalSwitchCase\\FormSoma.Designer.cs",
+              "ToolTip": "D:\\Nicolly\\csharp\\ProjetoEstruturaCondicionalSwitchCase\\FormSoma.Designer.cs",
+              "RelativeToolTip": "..\\ProjetoEstruturaCondicionalSwitchCase\\FormSoma.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T13:06:26.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormSoma.cs",
+              "DocumentMoniker": "D:\\Nicolly\\csharp\\ProjetoEstruturaCondicionalSwitchCase\\FormSoma.cs",
+              "RelativeDocumentMoniker": "..\\ProjetoEstruturaCondicionalSwitchCase\\FormSoma.cs",
+              "ToolTip": "D:\\Nicolly\\csharp\\ProjetoEstruturaCondicionalSwitchCase\\FormSoma.cs",
+              "RelativeToolTip": "..\\ProjetoEstruturaCondicionalSwitchCase\\FormSoma.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T12:39:59.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormSoma.cs [Design - Afar]",
+              "DocumentMoniker": "D:\\Nicolly\\csharp\\ProjetoEstruturaCondicionalSwitchCase\\FormSoma.cs",
+              "RelativeDocumentMoniker": "..\\ProjetoEstruturaCondicionalSwitchCase\\FormSoma.cs",
+              "ToolTip": "D:\\Nicolly\\csharp\\ProjetoEstruturaCondicionalSwitchCase\\FormSoma.cs [Design - Afar]",
+              "RelativeToolTip": "..\\ProjetoEstruturaCondicionalSwitchCase\\FormSoma.cs [Design - Afar]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T12:39:57.156Z",
+              "EditorCaption": " [Design - Afar]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Nicolly\\csharp\\ProjetoEstruturaCondicionalSwitchCase\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ProjetoEstruturaCondicionalSwitchCase\\Program.cs",
+              "ToolTip": "D:\\Nicolly\\csharp\\ProjetoEstruturaCondicionalSwitchCase\\Program.cs",
+              "RelativeToolTip": "..\\ProjetoEstruturaCondicionalSwitchCase\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T12:38:59.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormCor.cs [Design]",
+              "DocumentMoniker": "D:\\Nicolly\\csharp\\ProjetoEstruturaCondicionalSwitchCase\\FormCor.cs",
+              "RelativeDocumentMoniker": "..\\ProjetoEstruturaCondicionalSwitchCase\\FormCor.cs",
+              "ToolTip": "D:\\Nicolly\\csharp\\ProjetoEstruturaCondicionalSwitchCase\\FormCor.cs [Design]",
+              "RelativeToolTip": "..\\ProjetoEstruturaCondicionalSwitchCase\\FormCor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T19:27:23.635Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

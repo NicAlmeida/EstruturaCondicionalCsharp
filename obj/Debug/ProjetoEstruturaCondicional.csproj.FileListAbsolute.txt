@@ -1,0 +1,17 @@
+D:\Nicolly\csharp\ProjetoEstruturaCondicional\bin\Debug\ProjetoEstruturaCondicional.exe.config
+D:\Nicolly\csharp\ProjetoEstruturaCondicional\bin\Debug\ProjetoEstruturaCondicional.exe
+D:\Nicolly\csharp\ProjetoEstruturaCondicional\bin\Debug\ProjetoEstruturaCondicional.pdb
+D:\Nicolly\csharp\ProjetoEstruturaCondicional\obj\Debug\ProjetoEstruturaCondicional.csproj.AssemblyReference.cache
+D:\Nicolly\csharp\ProjetoEstruturaCondicional\obj\Debug\ProjetoEstruturaCondicional.FormCalculadora.resources
+D:\Nicolly\csharp\ProjetoEstruturaCondicional\obj\Debug\ProjetoEstruturaCondicional.Properties.Resources.resources
+D:\Nicolly\csharp\ProjetoEstruturaCondicional\obj\Debug\ProjetoEstruturaCondicional.csproj.GenerateResource.cache
+D:\Nicolly\csharp\ProjetoEstruturaCondicional\obj\Debug\ProjetoEstruturaCondicional.csproj.CoreCompileInputs.cache
+D:\Nicolly\csharp\ProjetoEstruturaCondicional\obj\Debug\ProjetoEstruturaCondicional.exe
+D:\Nicolly\csharp\ProjetoEstruturaCondicional\obj\Debug\ProjetoEstruturaCondicional.pdb
+D:\Nicolly\csharp\ProjetoEstruturaCondicional\obj\Debug\ProjetoEstruturaCondicional.FormIMC.resources
+D:\Nicolly\csharp\ProjetoEstruturaCondicional\obj\Debug\ProjetoEstruturaCondicional.FormDesconto.resources
+D:\Nicolly\csharp\ProjetoEstruturaCondicional\obj\Debug\ProjetoEstruturaCondicional.FormMenu.resources
+D:\Nicolly\csharp\ProjetoEstruturaCondicional\obj\Debug\ProjetoEstruturaCondicional.FormQuestionario.resources
+D:\Nicolly\csharp\ProjetoEstruturaCondicional\obj\Debug\ProjetoEstruturaCondicional.FormCheckBox.resources
+D:\Nicolly\csharp\ProjetoEstruturaCondicional\obj\Debug\ProjetoEstruturaCondicional.FormRadioButton.resources
+D:\Nicolly\csharp\ProjetoEstruturaCondicional\obj\Debug\ProjetoEstruturaCondicional.FormComboBox.resources
